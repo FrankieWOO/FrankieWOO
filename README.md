@@ -49,7 +49,19 @@ My goal is to build robot skill and behavior coordination systems that can be de
 
 - **[Jun. 2026]** Video-to-BT and TacUMI presented at **ICRA 2026** 🎉
 - **[Sep. 2025]** Joined Shanghai University as Associate Professor
-- **[Jan. 2025]** 4/5 ICRA 2025 submissions accepted
+- **[Jan. 2025]** 4/5 **ICRA 2025** submissions accepted
+- **[Jun. 2024]** 5/6 papers I co-authored/mentored are accepted to **IROS 2024**
+- [May. 2024][paper][event] I had a wonderful ICRA week in Yokohama, Japan. Our recent progess on **Collectie Learning** was reported by Prof. Sami Haddadin in his **Plenary Talk: The Great Robot Accelerator: Collective Learning of Optimal Embodied AI**. 
+- [Apr. 2024][paper] Our work on **behavior tree** generation using **LLMs** has been accepted to be presented at [ICRA24 Workshop Co-manipulation](https://sites.google.com/york.ac.uk/icra24-co-manipulation). The main author, my master student AO Jicong is finishing his master thesis on this topic.
+- [Jan. 2024][paper] Three papers I co-authored/mentored got accepted to [ICRA 2024](https://2024.ieee-icra.org/) and one RAM paper will be presented there too! [Check it here](/tag/icra2024) for the papers!
+- [Oct. 2023][paper] Our work titled *Digital Robot Judge (DR.J): Building a Task-Centric Performance Database of Real-World Manipulation with Electronic Task Boards* is accepted by IEEE Robotics and Automation Magazine (RAM) and will be published soon. 
+- [Oct. 2023][paper] Our work on Tactile Manipulation Using Unified Force-Impedance Control is accepted and will be presented at **CDC** 2023 in Singapore. 
+- [Oct. 2023][Event] I am co-organizing the **Workshop: Robotics and AI in Future Factory** at **IROS 2023**, find more info [here](https://sites.google.com/view/robot-ai-future-factory/)!
+- [Oct. 2023][paper] Our work on deformable object manipulation is presented in **IROS 2023**, [check it here](/publication/chen-2023-contact/).
+- [Sep. 2023][paper] Our colleague Kim Pepper presented our work *Individualized Training of Back Muscles Using Iterative Learning Control of a Compliant Balance Board* at [ICORR 2023](https://icorr-c.org/events/icorr-2023/) in Singapore. 
+- [Jun. 2023][Event] We successfully organized the 3rd [Robothon Grand Challenge](https://automatica-munich.com/en/munich-i/robothon/) in automatica! 
+- [Jun. 2023][Event] We are showing multiple demos at [Automatica trade fair](https://automatica-munich.com/).
+- [Jul. 2023][paper] We have 3 papers presented in **[IFAC 2023](https://www.ifac2023.org/)**. [Check it here](/tag/ifac2023) for the papers!
 
 ## Publications
 
