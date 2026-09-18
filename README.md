@@ -43,14 +43,9 @@ world — and one day, robots with human-level tool-use and craftsmanship.
 - **[Sep. 2025]** Joined Shanghai University as Associate Professor
 - **[Jan. 2025]** 4/5 ICRA 2025 submissions accepted
 
-## Selected Publications
+## Publications
 
 &gt; Full list: [Publications](https://frankiewoo.github.io/publication) · [Google Scholar](https://scholar.google.com/citations?user=ISnHunsAAAAJ)
 
-- **Video-to-BT** — *ICRA 2026*
-- **TacUMI** — *ICRA 2026*
-- **Digital Robot Judge (DR.J)** — *IEEE RA-M*, 2023
 
-## Open Source
 
-- [repo-name](https://github.com/FrankieWOO/xxx) — 一句话说明这个库做什么
